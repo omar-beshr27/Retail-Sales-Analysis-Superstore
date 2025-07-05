@@ -59,7 +59,7 @@ To develop an executive-ready business intelligence report that identifies:
 
 | Executive Overview | Logistics & Loss Analysis |
 |--------------------|----------------------------|
-| ![Executive]([Executive Overview Page 1.png](https://github.com/omar-beshr27/Retail-Sales-Analysis-Superstore/blob/main/Executive%20Overview%20Page%201.png)) | ![Logistics](path-to-logistics-screenshot) |
+| ![Executive]([Executive Overview Page 1.png](https://github.com/omar-beshr27/Retail-Sales-Analysis-Superstore/blob/main/Executive%20Overview%20Page%201.png)) | ![Logistics]([path-to-logistics-screenshot](https://github.com/omar-beshr27/Retail-Sales-Analysis-Superstore/blob/main/Operational%20Insights%20Page%202.png)) |
 
 > _Note: Filters on Page 1 also apply to Page 2 for cross-page interactivity._
 
