@@ -59,7 +59,7 @@ To develop an executive-ready business intelligence report that identifies:
 
 | Executive Overview | Logistics & Loss Analysis |
 |--------------------|----------------------------|
-| ![Executive](path-to-executive-screenshot) | ![Logistics](path-to-logistics-screenshot) |
+| ![Executive]Executive Overview Page 1.png | ![Logistics](path-to-logistics-screenshot) |
 
 > _Note: Filters on Page 1 also apply to Page 2 for cross-page interactivity._
 
